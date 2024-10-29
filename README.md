@@ -1,6 +1,6 @@
 Project Title: "Meows & Pops"
 
-What the Project Does -- This project is a cute and cheerful, relaxing and super casual, endless tapping game for all ages to enjoy
+What the Project Does -- This project is a cute and cheerful, relaxing and super casual, endless grapes falling tapping game for all ages to enjoy
 
 The Technology Used -- The Unity Game Engine was utilized to make this game because of its beginner-friendly user experience and its quality process and results in 2D development
 
